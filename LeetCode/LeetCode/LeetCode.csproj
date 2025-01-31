@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="ArrayAndStrings\" />
+    <Folder Include="PrefixSum\" />
   </ItemGroup>
 
 </Project>
