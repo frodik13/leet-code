@@ -34,6 +34,7 @@
 
   <ItemGroup>
     <Folder Include="ArrayAndStrings\" />
+    <Folder Include="Queue\" />
   </ItemGroup>
 
   <ItemGroup>
