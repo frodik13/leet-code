@@ -1,0 +1,11 @@
+﻿using LeetCode.BinaryTree.Models;
+
+namespace LeetCode.BinaryTree;
+
+public class MaximumDepthBinaryTree
+{
+    public int MaxDepth(TreeNode root)
+    {
+        return root == null ? 0 : 1 + Math.Max(MaxDepth(root.Left), MaxDepth(root.Right));
+    }
+}
