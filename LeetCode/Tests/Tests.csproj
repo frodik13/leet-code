@@ -36,6 +36,7 @@
     <Folder Include="ArrayAndStrings\" />
     <Folder Include="Queue\" />
     <Folder Include="BinaryTree\" />
+    <Folder Include="BinarySearch\" />
   </ItemGroup>
 
   <ItemGroup>
