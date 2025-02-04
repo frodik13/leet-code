@@ -365,3 +365,5 @@ FodyWeavers.xsd
 *.bak
 /M-TEST ASU/TestResultPage/ViewModel/TestResultViewModel.cs
 /*.bkp
+
+LeetCode/.idea/
