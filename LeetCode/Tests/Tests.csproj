@@ -36,11 +36,25 @@
     <Folder Include="ArrayAndStrings\" />
     <Folder Include="Queue\" />
     <Folder Include="BinaryTree\" />
-    <Folder Include="BinarySearch\" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="BinarySearch\SuccessfulPairsOfSpellsAndPotionsTestCase\success.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="BinarySearch\SuccessfulPairsOfSpellsAndPotionsTestCase\potions.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="BinarySearch\SuccessfulPairsOfSpellsAndPotionsTestCase\spells.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="BinarySearch\SuccessfulPairsOfSpellsAndPotionsTestCase\expected.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
