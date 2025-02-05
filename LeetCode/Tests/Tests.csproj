@@ -33,7 +33,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ArrayAndStrings\" />
     <Folder Include="Queue\" />
     <Folder Include="BinaryTree\" />
   </ItemGroup>
