@@ -1,6 +1,3 @@
-using FluentAssertions;
-using LeetCode.BinarySearch;
-
 namespace Tests.BinarySearch;
 
 [TestFixture]

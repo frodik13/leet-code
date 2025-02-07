@@ -1,6 +1,3 @@
-using FluentAssertions;
-using LeetCode.Stack;
-
 namespace Tests.Stack;
 
 [TestFixture]

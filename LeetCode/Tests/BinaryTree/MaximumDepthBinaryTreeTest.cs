@@ -1,8 +1,4 @@
-﻿using FluentAssertions;
-using LeetCode.BinaryTree;
-using LeetCode.BinaryTree.Models;
-
-namespace Tests.BinaryTree;
+﻿namespace Tests.BinaryTree;
 
 [TestFixture]
 public class MaximumDepthBinaryTreeTest

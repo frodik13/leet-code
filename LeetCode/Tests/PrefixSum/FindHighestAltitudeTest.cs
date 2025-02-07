@@ -1,7 +1,4 @@
-﻿using FluentAssertions;
-using LeetCode.PrefixSum;
-
-namespace Tests.PrefixSum;
+﻿namespace Tests.PrefixSum;
 
 [TestFixture]
 public class FindHighestAltitudeTest

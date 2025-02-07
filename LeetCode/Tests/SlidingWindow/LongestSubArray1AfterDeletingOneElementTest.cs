@@ -1,7 +1,4 @@
-﻿using FluentAssertions;
-using LeetCode.SlidingWindow;
-
-namespace Tests.SlidingWindow;
+﻿namespace Tests.SlidingWindow;
 
 [TestFixture]
 public class LongestSubArray1AfterDeletingOneElementTest

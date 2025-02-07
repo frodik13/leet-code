@@ -1,7 +1,4 @@
-﻿using FluentAssertions;
-using LeetCode.Queue;
-
-namespace Tests.Queue;
+﻿namespace Tests.Queue;
 
 public class RecentCounterTest
 {

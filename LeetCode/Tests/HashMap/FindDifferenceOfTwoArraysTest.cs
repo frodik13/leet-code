@@ -1,7 +1,4 @@
-﻿using FluentAssertions;
-using LeetCode.HashMap;
-
-namespace Tests.HashMap;
+﻿namespace Tests.HashMap;
 
 public class FindDifferenceOfTwoArraysTest
 {

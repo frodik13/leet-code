@@ -1,7 +1,4 @@
-﻿using FluentAssertions;
-using LeetCode.TwoPointers;
-
-namespace Tests.TwoPointers;
+﻿namespace Tests.TwoPointers;
 
 [TestFixture]
 public class MoverZeroesTest
