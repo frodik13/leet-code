@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="PrefixSum\" />
+    <Folder Include="LinkedList\" />
   </ItemGroup>
 
 </Project>

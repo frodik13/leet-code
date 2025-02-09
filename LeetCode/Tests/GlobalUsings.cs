@@ -12,3 +12,4 @@ global using LeetCode.Queue;
 global using LeetCode.SlidingWindow;
 global using LeetCode.Stack;
 global using LeetCode.TwoPointers;
+global using LeetCode.LinkedList;
