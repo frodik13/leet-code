@@ -14,3 +14,4 @@ global using LeetCode.Stack;
 global using LeetCode.TwoPointers;
 global using LeetCode.LinkedList;
 global using LeetCode.BinarySearchTree;
+global using LeetCode.BitManipulation;
