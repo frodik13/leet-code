@@ -1,4 +1,4 @@
-namespace LeetCode.MonotonicStack;
+namespace Tests.MonotonicStack;
 
 [TestFixture]
 public class DailyTemperatureTest

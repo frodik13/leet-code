@@ -15,3 +15,5 @@ global using LeetCode.TwoPointers;
 global using LeetCode.LinkedList;
 global using LeetCode.BinarySearchTree;
 global using LeetCode.BitManipulation;
+global using LeetCode.Intervals;
+global using LeetCode.MonotonicStack;
