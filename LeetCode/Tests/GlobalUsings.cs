@@ -17,3 +17,4 @@ global using LeetCode.BinarySearchTree;
 global using LeetCode.BitManipulation;
 global using LeetCode.Intervals;
 global using LeetCode.MonotonicStack;
+global using LeetCode.Trie;
