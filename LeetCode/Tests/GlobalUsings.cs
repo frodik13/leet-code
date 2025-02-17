@@ -2,6 +2,7 @@
 
 global using FluentAssertions;
 global using LeetCode.ArrayAndStrings;
+global using LeetCode.Backtracking;
 global using LeetCode.BinarySearch;
 global using LeetCode.BinaryTree;
 global using LeetCode.BinaryTree.Models;
