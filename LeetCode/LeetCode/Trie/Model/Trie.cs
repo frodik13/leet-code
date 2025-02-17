@@ -14,8 +14,8 @@ public class Trie
         var node = _root;
         for (var i = 0; i < word.Length; i++)
         {
-            node!.Children[word[i] - 'a'] ??= new TrieNode();
-            node = node.Children[word[i] - 'a'];
+            node.Children.TryAdd(word[i], new TrieNode());
+            node = node.Children[word[i]];
         }
 
         node!.IsEnd = true;
@@ -26,10 +26,8 @@ public class Trie
         var node = _root;
         for (var i = 0; i < word.Length; i++)
         {
-            if (node.Children[word[i] - 'a'] == null)
+            if (!node.Children.TryGetValue(word[i], out node))
                 return false;
-
-            node = node.Children[word[i] - 'a'];
         }
 
         return node!.IsEnd;
@@ -40,10 +38,8 @@ public class Trie
         var node = _root;
         for (var i = 0; i < prefix.Length; i++)
         {
-            if (node!.Children[prefix[i] - 'a'] == null)
+            if (!node.Children.TryGetValue(prefix[i], out node))
                 return false;
-
-            node = node.Children[prefix[i] - 'a'];
         }
 
         return true;

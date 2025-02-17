@@ -4,10 +4,10 @@ public class TrieNode
 {
     public TrieNode()
     {
-        Children = new TrieNode[26];
+        Children = new Dictionary<char, TrieNode>();
         IsEnd = false;
     }
 
-    public TrieNode?[] Children { get; }
+    public Dictionary<char, TrieNode> Children { get; set; }
     public bool IsEnd { get; set; }
 }
