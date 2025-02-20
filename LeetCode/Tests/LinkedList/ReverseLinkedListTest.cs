@@ -1,6 +1,4 @@
-﻿using LeetCode.LinkedList.Models;
-
-namespace Tests.LinkedList;
+﻿namespace Tests.LinkedList;
 
 [TestFixture]
 public class ReverseLinkedListTest

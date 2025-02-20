@@ -19,5 +19,6 @@ global using LeetCode.BitManipulation;
 global using LeetCode.GraphsDepthFirstSearch;
 global using LeetCode.HeapPriorityQueue;
 global using LeetCode.Intervals;
+global using LeetCode.LinkedList.Models;
 global using LeetCode.MonotonicStack;
 global using LeetCode.Trie;

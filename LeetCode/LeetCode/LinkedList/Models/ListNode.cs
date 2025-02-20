@@ -22,4 +22,10 @@ public class ListNode(int val = 0, ListNode next = null)
 
         return false;
     }
+
+    public override string ToString()
+    {
+        var nextText = next == null ? "null" : next.ToString();
+        return $"(\nValue: {val}. (\nNext: {nextText}\n)\n)";
+    }
 }

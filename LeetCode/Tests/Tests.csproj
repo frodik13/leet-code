@@ -33,7 +33,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="LinkedList\" />
     <Folder Include="Intervals\" />
   </ItemGroup>
 
