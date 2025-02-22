@@ -34,6 +34,7 @@
 
   <ItemGroup>
     <Folder Include="Intervals\" />
+    <Folder Include="GraphsBreadthFirstSearch\" />
   </ItemGroup>
 
   <ItemGroup>

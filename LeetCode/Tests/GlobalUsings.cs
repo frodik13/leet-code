@@ -16,6 +16,7 @@ global using LeetCode.TwoPointers;
 global using LeetCode.LinkedList;
 global using LeetCode.BinarySearchTree;
 global using LeetCode.BitManipulation;
+global using LeetCode.GraphsBreadthFirstSearch;
 global using LeetCode.GraphsDepthFirstSearch;
 global using LeetCode.HeapPriorityQueue;
 global using LeetCode.Intervals;
