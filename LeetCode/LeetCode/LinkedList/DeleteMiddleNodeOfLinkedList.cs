@@ -1,5 +1,3 @@
-using LeetCode.LinkedList.Models;
-
 namespace LeetCode.LinkedList;
 
 public class DeleteMiddleNodeOfLinkedList

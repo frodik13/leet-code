@@ -1,6 +1,4 @@
-﻿using LeetCode.LinkedList.Models;
-
-namespace LeetCode.LinkedList;
+﻿namespace LeetCode.LinkedList;
 
 public class ReverseLinkedList
 {
