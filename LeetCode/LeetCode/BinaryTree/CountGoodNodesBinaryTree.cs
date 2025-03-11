@@ -1,6 +1,4 @@
-﻿using LeetCode.BinaryTree.Models;
-
-namespace LeetCode.BinaryTree;
+﻿namespace LeetCode.BinaryTree;
 
 public class CountGoodNodesBinaryTree
 {

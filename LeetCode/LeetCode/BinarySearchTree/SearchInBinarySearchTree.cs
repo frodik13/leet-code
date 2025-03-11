@@ -1,5 +1,3 @@
-using LeetCode.BinaryTree.Models;
-
 namespace LeetCode.BinarySearchTree;
 
 public class SearchInBinarySearchTree
